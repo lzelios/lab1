@@ -1,8 +1,5 @@
 Once upon a time
 Adding another line
-<<<<<<< HEAD
 Lambros adding a third line
-=======
 Shawn made a change
 Yifan made another change
->>>>>>> ac4c9ebc8bf77a44dce6a3620b2a6cc232d2e3e5
